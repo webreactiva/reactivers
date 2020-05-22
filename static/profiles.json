@@ -177,5 +177,23 @@
         "website": "https://danielprimo.io",
         "twitter": "https://twitter.com/delineas",
         "github": "https://github.com/delineas"
+    },
+    {
+        "name": "Miguel Barahona",
+        "headline": "No me canso de aprender",
+        "status": "🏀",
+        "flag": "🇪🇸",
+        "main_skill": "Backend",
+        "skills": [
+            "HTML",
+            "CSS",
+            "Web",
+            "PHP",
+            "Javascript",
+            "MSSQL"
+        ],
+        "website": "https://www.miguelbarahona.com",
+        "twitter": "https://twitter.com/migbara",
+        "github": "https://github.com/migbara"
     }
 ]
