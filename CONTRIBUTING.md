@@ -12,9 +12,32 @@ Añade tus datos al final.
 
 **Recuerda no terminar con una coma**
 
-Un ejemplo que puedes copiar y pegar para luego modificar:
+Un ejemplo que puedes copiar y pegar para luego modificar.
+
+Sin comentarios (para que el JSON valide correctamente)
 
 ```json
+    {
+        "name": "Cris García",
+        "headline": "¡Las personas somos lo importante!",
+        "status": "💃",
+        "flag": "🇯🇲",
+        "main_skill": "Frontend",
+        "skills": [
+            "HTML",
+            "CSS",
+            "Web"
+        ],
+        "website": "https://webreativa.com",
+        "twitter": "https://twitter.com/webreactiva",
+        "github": "https://github.com/webreactiva"
+    }
+
+```
+
+Con comentarios, para que entiendas como funciona:
+
+```javascript
     {
         "name": "Cris García",  // Tu nombre
         "headline": "¡Las personas somos lo importante!", // Una frase que te identifique
