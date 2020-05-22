@@ -160,5 +160,22 @@
         "twitter": "https://twitter.com/johnpangolin",
         "github": "https://github.com/johnpng",
         "premium": false
+    },
+    {
+        "name": "Daniel Primo",
+        "headline": "¡Las personas somos lo importante!",
+        "status": "💃",
+        "flag": "🇪🇸",
+        "main_skill": "Full Stack",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Deno",
+            "Vue"
+        ],
+        "website": "https://danielprimo.io",
+        "twitter": "https://twitter.com/delineas",
+        "github": "https://github.com/delineas"
     }
 ]
